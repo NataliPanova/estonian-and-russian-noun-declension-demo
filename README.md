@@ -1,7 +1,4 @@
 # A Program to Practice and Reinforce Noun Declensions by Cases in Estonian and Russian
-# Programm nimisõnade käändeoskuste kinnistamiseks ja harjutamiseks eesti ja vene keeles
-# Программа для закрепления и тренировки склонений существительных по падежам в эстонском и русском языках
-
 # Installation and Launch Guide
 ## Installation
 
@@ -18,7 +15,7 @@
 
    Now that the program is installed, you can launch it by searching for the application in the Start menu or simply opening the file in the installation folder. Enjoy using the program!
 
-
+# Programm nimisõnade käändeoskuste kinnistamiseks ja harjutamiseks eesti ja vene keeles
 # Paigaldus- ja käivitamisjuhend
 ## Paigaldamine
 
@@ -35,6 +32,7 @@
 
     Nüüd, kui programm on paigaldatud, võite selle avada, otsides rakendust menüüst „Alusta” või avades installikataloogis oleva faili. Nautige kasutamist!
 
+# Программа для закрепления и тренировки склонений существительных по падежам в эстонском и русском языках
 
 # Руководство по установке и запуску программы
 ## Установка и запуск программы
