@@ -1,3 +1,7 @@
+# A Program to Practice and Reinforce Noun Declensions by Cases in Estonian and Russian
+# Programm nimisõnade käändeoskuste kinnistamiseks ja harjutamiseks eesti ja vene keeles
+# Программа для закрепления и тренировки склонений существительных по падежам в эстонском и русском языках
+
 # Installation and Launch Guide
 ## Installation
 
